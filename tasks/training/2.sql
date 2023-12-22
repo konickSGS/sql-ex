@@ -1,4 +1,4 @@
 SELECT DISTINCT
-	maker
+ maker
 FROM Product
 WHERE type = 'Printer';
